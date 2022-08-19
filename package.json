@@ -1,0 +1,15 @@
+{
+  "name": "calculator-by-zx",
+  "version": "1.0.0",
+  "description": "微信小程序字符串数学式子不能计算可以采用这个包进行计算",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "微信小程序",
+    "eval"
+  ],
+  "author": "deep",
+  "license": "MIT"
+}
